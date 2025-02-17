@@ -1,1 +1,1 @@
-OPENAIAPI = "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"
+OPENAIAPI = "give your open ai api key here"
